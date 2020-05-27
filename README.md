@@ -1,7 +1,18 @@
-### 启动脚本
-```node convert.js```
+# Milvus Documentation
 
-##### 在src目录下编辑文件, fragment及变量会自动插入文档中, 预览进入site文件夹
+This repository contains the Milvus documentation for [milvus.io](https://www.milvus.io/) (Milvus official website). 
 
-##### 变量命名{{var.a.b}}, 变量查找从子文件夹到父文件夹递归查找
-##### 片段命名{{fragment.chapter1.root.md}}, 片段从fragment文件夹自上而下查找
+To contribute, read the [contributing guide](CONTRIBUTING.md).
+
+To file an issue, you can use the tracker in [this repository](https://github.com/milvus-io/docs/issues/new/choose) or in the [milvus-io/milvus](https://github.com/milvus-io/milvus/issues/new?assignees=&labels=&template=documentation-request.md&title=[DOC]) repo.
+
+To send a pull request, please fork this repository first.
+
+### Writing style
+
+The Milvus documentation is written in [Markdown](https://commonmark.org/help/), and generally follow [Google Developer Documentation Style Guide](https://developers.google.com/style/).
+
+### License
+
+[Apache License 2.0](LICENSE)
+
