@@ -6,7 +6,7 @@ sidebar_label: Vector Search Methods
 
 # Vector Search Methods
 
-Similarity search methods for vectors can be generally categorized into exact search and approximate search. {{var.b}}
+Similarity search methods for vectors can be generally categorized into exact search and approximate search. guides variable b
 
 ## Exact search
 
